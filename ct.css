@@ -1,0 +1,129 @@
+.para {
+    color: #990597;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Roboto;
+}
+
+.image {
+    height: 45vh;
+    width: 25vw;
+}
+
+.bat {
+    width: 200px;
+}
+
+.bat1 {
+    width: 200px;
+    height: 200px;
+    border-radius: 30px;
+    font-size: 35px;
+    font-family: italic;
+}
+
+.para1 {
+    font-size: 90px;
+    font-weight: bold;
+    font-family: Roboto;
+    background-color: white;
+    margin-bottom: 40px;
+    border-radius: 15px;
+}
+
+.h-card {
+    padding: 20px;
+    margin: 30px;
+    background-image: linear-gradient(pink, lightblue,grey, lightpink);
+    height: 100%;
+    width: 80%;
+    background-size: cover;
+    border-radius: 10px;
+}
+
+.but1 {
+    height: 50px;
+    color: white;
+    font-weight: bold;
+    font-family: Roboto;
+    font-size: 20px;
+    width: 130px;
+    background-color: red;
+    border-width: 0px;
+    border-radius: 20px;
+    margin: 2px;
+}
+
+.but2 {
+    margin: 2px;
+    height: 50px;
+    color: white;
+    font-weight: bold;
+    font-family: Roboto;
+    font-size: 20px;
+    width: 130px;
+    background-color: black;
+    border-width: 0px;
+    border-radius: 20px;
+}
+
+.but3 {
+    margin: 2px;
+    height: 50px;
+    color: white;
+    font-weight: bold;
+    font-family: Roboto;
+    font-size: 20px;
+    width: 130px;
+    background-color: green;
+    border-width: 0px;
+    border-radius: 20px;
+}
+
+
+.but12 {
+    height: 50px;
+    color: white;
+    font-weight: bold;
+    font-family: Roboto;
+    font-size: 20px;
+    width: 130px;
+    background-color: green;
+    border-width: 0px;
+    border-radius: 20px;
+    margin: 2px;
+}
+
+.but22 {
+    margin: 2px;
+    height: 50px;
+    color: white;
+    font-weight: bold;
+    font-family: Roboto;
+    font-size: 20px;
+    width: 130px;
+    background-color: red;
+    border-width: 0px;
+    border-radius: 20px;
+}
+
+.but32 {
+    margin: 2px;
+    height: 50px;
+    color: white;
+    font-weight: bold;
+    font-family: Roboto;
+    font-size: 20px;
+    width: 130px;
+    background-color: black;
+    border-width: 0px;
+    border-radius: 20px;
+}
+
+.btnBack{
+    height: 50px;
+    width: 120px;
+    border-radius: 20px;
+    border-width: 0px;
+    border-style: solid;
+}
